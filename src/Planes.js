@@ -13,19 +13,38 @@ class Planes extends Component {
                             <Col s={12} m={4}>
                                 <Icon medium>fitness_center</Icon>
                                 <CardPanel className="teal lighten-4 black-text">
-                                    <span>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.</span>
+                                    <h4>Paquete 1</h4>
+                                    <ol>
+                                        <li>Rutina de entrenamiento.</li>
+                                        <li>Plan de nutrición.</li>
+                                        <li>Asesoría 7am a 11pm.</li>
+                                        <li>Atención en medios digitales (a elegir).</li>
+                                    </ol>
                                 </CardPanel>
                             </Col>
                             <Col s={12} m={4}>
-                            <Icon medium>list</Icon>
+                            <Icon medium>fitness_center</Icon>
                                 <CardPanel className="teal lighten-4 black-text">
-                                    <span>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.</span>
+                                <h4>Paquete 2</h4>
+                                    <ol>
+                                        <li>Rutina de entrenamiento.</li>
+                                        <li>Plan de nutrición.</li>
+                                        <li>Asesoría 7am a 11pm.</li>
+                                        <li>Atención en medios digitales (a elegir).</li>
+                                    </ol>
                                 </CardPanel>
                             </Col>
                             <Col s={12} m={4}>
-                            <Icon medium>group</Icon>
+                            <Icon medium>fitness_center</Icon>
                                 <CardPanel className="teal lighten-4 black-text">
-                                    <span>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.</span>
+                                <h4>Paquete 1</h4>
+                                    <ol>
+                                        <li>Rutina de entrenamiento.</li>
+                                        <li>Asesoría limitada.</li>
+                                        <br></br>
+                                        <br></br>
+                                        <br></br>
+                                    </ol>
                                 </CardPanel>
                             </Col>
                         </Row>
